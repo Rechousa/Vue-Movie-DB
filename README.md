@@ -2,7 +2,7 @@
 
 Vue Movie DB demo application created with Vue CLI.
 
-This is my implementation of "Vue.js for everyone" application that I've created just for fun and demo proposes.
+This is my implementation of "Vue.js for everyone" application that I've created just for fun and demo purposes.
 
 
 
