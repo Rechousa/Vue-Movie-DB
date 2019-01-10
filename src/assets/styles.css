@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #222;
+}
+
+a, a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.5s ease;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+  transform: translateX(100%);
+}
+
+
+.localfade-enter-active,
+.localfade-leave-active {
+  transition: all 0.5s ease;
+}
+.localfade-enter,
+.localfade-leave-to {
+  opacity: 0;
+}
