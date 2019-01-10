@@ -58,8 +58,8 @@ npm run lint
 
 ## Screenshots:
 
-![screenshot01](D:\Meus\GitHub\PublicRepositories\Vue-Movie-DB\docs\screenshot01.jpg)
+![screenshot01](/docs/screenshot01.jpg)
 
 
 
-![screenshot02](D:\Meus\GitHub\PublicRepositories\Vue-Movie-DB\docs\screenshot02.jpg)
+![screenshot02](/docs/screenshot02.jpg)
